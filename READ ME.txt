@@ -1,0 +1,5 @@
+This code was written by Ferhat Ali TOKUÇ.
+Yeditepe University is a project assignment for CSE 101.
+If you copy and paste the code, it will be transferred to the system as plagiarism and you will get 0. I do not recommend it and do not take any responsibility.
+I uploaded this assignment to github to give an idea completely.
+Best regards
